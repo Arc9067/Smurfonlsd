@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.webp";
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
           ABOUT
         </h1>
 
-        <img src={logo} alt="" className="relative top-52" />
+        <img src={logo} alt="" className="relative top-32" />
         <div className="w-full  px-4 pt-11 pb-10 bg-sky-400 rounded-3xl border-4 relative z-10 border-white justify-center items-center inline-flex">
           <div className=" text-neutral-800 text-xl font-medium  leading-loose tracking-wide">
             The project is fully decentralized and community based. We just do
