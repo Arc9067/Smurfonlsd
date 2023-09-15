@@ -5,8 +5,8 @@ function About() {
   return (
     <section className="py-20 w-full">
       <div className="container flex flex-col justify-center items-center">
-        <h1 className="text-[#EF1] relative top-28 text-8xl font-normal font-JackCon tracking-widest">
-          ABOUT
+        <h1 className="text-[#EF1] relative top-28 text-8xl font-normal font-JackCon">
+          HE IS REAL{" "}
         </h1>
 
         <img src={logo} alt="" className="relative top-32 lg:w-[30rem]" />
