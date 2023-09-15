@@ -5,7 +5,7 @@ function Header() {
     <header className="py-4 w-full absolute top-0">
       <nav className="container flex items-center justify-between">
         <a href="" className="font-JackCon text-3xl">
-          Smurf
+          Smurfonlsd
         </a>
         <ul className="hidden lg:flex gap-14 justify-between items-start">
           <li className="text-white text-xl cursor-pointer font-semibold">
