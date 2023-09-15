@@ -21,31 +21,21 @@ function Tokenomics() {
           <div className=" justify-between items-start flex flex-col gap-10 md:flex-row font-Jack">
             <div className="justify-center items-center gap-3 flex">
               <div className="text-white text-2xl font-normal font-['Jack's Candlestick'] leading-loose">
-                Max Supply
+                Tax
               </div>
               <div className="justify-start items-center gap-3 flex">
                 <div className="text-white text-3xl font-semibold font-['Jost'] leading-10">
-                  58%
+                  0/0
                 </div>
               </div>
             </div>
             <div className="justify-center items-center gap-3 flex">
               <div className="text-white text-2xl font-normal font-['Jack's Candlestick'] leading-loose">
-                Max Supply
+                Max Txn
               </div>
               <div className="justify-start items-center gap-3 flex">
                 <div className="text-white text-3xl font-semibold font-['Jost'] leading-10">
-                  58%
-                </div>
-              </div>
-            </div>
-            <div className="justify-center items-center gap-3 flex">
-              <div className="text-white text-2xl font-normal font-['Jack's Candlestick'] leading-loose">
-                Max Supply
-              </div>
-              <div className="justify-start items-center gap-3 flex">
-                <div className="text-white text-3xl font-semibold font-['Jost'] leading-10">
-                  58%
+                  2%
                 </div>
               </div>
             </div>
