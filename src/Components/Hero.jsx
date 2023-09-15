@@ -11,7 +11,7 @@ function Hero() {
             Mурф ЛСД, {" "}
           </span>{" "}
           <span className="text-white text-7xl font-normal font-['Jack's Candlestick']">
-            CSmurf on LSD
+            Smurf on LSD
           </span>
         </h1>
       </div>
