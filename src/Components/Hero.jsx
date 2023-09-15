@@ -8,10 +8,10 @@ function Hero() {
         <img src={logo} alt="" className="" />
         <h1 className="font-JackCon leading-[22px]">
           <span className="text-sky-500 text-7xl font-normal font-['Jack's Candlestick'] ">
-            Uniting Fun, Memes, and{" "}
+            Cмурф ЛСД, {" "}
           </span>{" "}
           <span className="text-white text-7xl font-normal font-['Jack's Candlestick']">
-            Crypto Bullishness!
+            CSmurf on LSD
           </span>
         </h1>
       </div>
