@@ -8,7 +8,7 @@ function Hero() {
         <img src={logo} alt="" className="" />
         <h1 className="font-JackCon leading-[22px]">
           <span className="text-sky-500 text-7xl font-normal font-['Jack's Candlestick'] ">
-            Cмурф ЛСД, {" "}
+            Mурф ЛСД, {" "}
           </span>{" "}
           <span className="text-white text-7xl font-normal font-['Jack's Candlestick']">
             CSmurf on LSD
