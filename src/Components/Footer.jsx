@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container flex flex-col lg:flex-row">
         <div className="flex flex-col font-Jack gap-5">
           <a
-            href=""
+            href="https://twitter.com/SMURFonLSDeth"
             className="px-7 py-4 bg-sky-400 rounded-lg flex justify-between items-center gap-8"
           >
             <div className="text-white text-3xl font-normal font-['Jack's Candlestick'] leading-10">
@@ -33,7 +33,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href=""
+            href="https://t.me/SmurfonLSD"
             className="px-7 py-4 bg-sky-400 rounded-lg flex justify-between items-center gap-8"
           >
             <div className="text-white text-3xl font-normal font-['Jack's Candlestick'] leading-10">

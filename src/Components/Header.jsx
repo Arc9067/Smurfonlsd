@@ -19,7 +19,7 @@ function Header() {
           </li>
         </ul>
         <div className="flex items-center gap-1">
-          <a href="">
+          <a href="https://twitter.com/SMURFonLSDeth">
             <svg
               width="30"
               height="30"
@@ -39,7 +39,7 @@ function Header() {
               />
             </svg>
           </a>
-          <a href="">
+          <a href="https://t.me/SmurfonLSD">
             <svg
               width="31"
               height="30"
